@@ -1,2 +1,12 @@
 # ServiceOrder-Spring
-A spring rest project.
+
+Algumas das tecnologias utilizadas:
+
+- Spring Boot
+- Spring Data JPA
+- Lombok
+- Flyway
+- JPA
+- Hibernate
+- Mysql
+- Jakarta Bean Validation
